@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Nisa Nuraini <br>
+A third year math major. <br>
+I'm currently learning something new
+
 <!--
 **nrainiz/nrainiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
